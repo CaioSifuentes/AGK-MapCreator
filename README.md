@@ -39,3 +39,4 @@ Por fim, adicione o seguinte código no começo do projeto:
 global brick as integer [ 100 ]
 loadMap("map_loader")
 ```
+Lembre-se de editar '100' para o tamanho máximo de blocos no seu mapa.
